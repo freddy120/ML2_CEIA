@@ -1,6 +1,7 @@
 # ML2_CEIA
 ML2 CEIA 2022
 
+python para GCP compute instance: https://github.com/freddy120/ML2_CEIA/blob/main/TP/ml2.py
 
 notebooke databricks: https://github.com/freddy120/ML2_CEIA/blob/main/TP/notebook/ml2_tp_final.ipynb
 
